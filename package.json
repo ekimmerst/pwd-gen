@@ -1,6 +1,6 @@
 {
   "name": "@ekimmerst/pwd-gen",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "description": "Password Generator",
   "keywords": [
     "password",
@@ -19,5 +19,13 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekimmerst/pwd-gen.git"
+  },
+  "homepage": "https://github.com/ekimmerst/pwd-gen#readme",
+  "bugs": {
+    "url": "https://github.com/ekimmerst/pwd-gen/issues"
   }
 }
